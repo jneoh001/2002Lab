@@ -13,7 +13,7 @@ class Animal{
             cout << "constructing Animal object" << _name << endl;
         }
 
-        //Q2
+        //Q2-
         Animal(string n, COLOR c){
             _name = n;
             _color = c;
